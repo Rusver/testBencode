@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\bin\Debug\source.exe.config
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\bin\Debug\source.exe
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\bin\Debug\source.pdb
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\bin\Debug\BencodeNET.dll
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\bin\Debug\BencodeNET.xml
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\obj\Debug\source.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\obj\Debug\source.exe
+C:\Users\User\Desktop\מסמכים לפרוייקט\BencodeTEST\source\obj\Debug\source.pdb
